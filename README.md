@@ -2,4 +2,6 @@
 
 This is a math game powered by Python.
 
-To use this game do maths game 
+Use this game to learn some maths!
+
+Hope you enjoy this game. 👍
